@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VeryUrban</string>
+    <string name="edit_message">Μαλάκα</string>
+    <string name="button_send">Μαλάκα</string>
+    <string name="action_settings">Μαλακαζ</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search for god</string>
+    <string name="title_activity_action_search">ActionSearch</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_search">Search</string>
+
+</resources>
